@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-  This i  I am Co-founder and VP Advanced Technology at [AppNeta](http://appneta.com).
+  I am Co-founder and VP Advanced Technology at [AppNeta](http://appneta.com).
   I also am the maintainer of [Tcpreplay](http://tcpreplay.appneta.com),
   an open-source project for replaying previously recorded network
   traffic. More importantly, I am a father of 2 wonderful girls, and husband to Barbara for
